@@ -27,4 +27,3 @@ module PC_adder(
     );
     assign c = a+b;
 endmodule
-

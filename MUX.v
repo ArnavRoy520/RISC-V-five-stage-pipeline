@@ -29,4 +29,3 @@ module MUX(
     
     assign c = sel ? b : a;
 endmodule
-
